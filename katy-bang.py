@@ -1,9 +1,6 @@
 import os
 import sys
 import time
-os.system("rm -rif katy-bang")
-os.system("git clone https://github.com/halocrak/katy-bang")
-os.system("python katy-bang/katy-bang.py")
 mrx ='''\x1b[1;92m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓
 ▓──────────────────────────────────────▓
