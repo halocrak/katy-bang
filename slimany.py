@@ -1,1 +1,5 @@
-
+print("BAYANY : 04;15")
+print("NEMARO : 12;07")
+print("3ASR : 15;25")
+print("EWARA : 18;26")
+print("3ESHA : 19;36")
