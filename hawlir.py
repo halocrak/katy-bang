@@ -1,5 +1,5 @@
-print("BAYANY : 04;25")
+print("BAYANY : 04;24")
 print("NEMARO : 12;18")
 print("3ASR : 15;45")
-print("EWARA : 18;32")
-print("3ESHA : 19;47")
+print("EWARA : 18;33")
+print("3ESHA : 19;48")
