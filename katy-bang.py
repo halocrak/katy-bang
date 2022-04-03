@@ -52,6 +52,5 @@ if halo == '4':
 if halo == '5':
 	os.system("clear")
 	os.system("python halabja.py")
-else:
-	print("not found")
+
 	
